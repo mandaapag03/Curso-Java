@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.java": "java"
+    },
+
+    "[java]":{
+    "files.autoGuessEncoding": false,
+    "files.encoding": "iso88591"
+    }
+}
